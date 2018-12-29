@@ -16,7 +16,7 @@ if ($fileHandle) {
     // Assume that every line has maximum 8192 length
     // If you don't care about line length then you can omit the 8192 param
     $lines = array();
-    while (($line = fgets($fileHandle, 8192)) !== false) {
+    while (($line = fgets($fileHandle, 9192)) !== false) {
         $lines[] = $line;
     }
 
