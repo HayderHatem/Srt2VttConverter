@@ -2,7 +2,7 @@
 
 
 if (empty($argv) or $argc !== 3) {
-    exit ("Please write the two params (destination & source)\n");
+    exit ("Please write the two params (source & destination)\n");
 }
 
 // get the params path
