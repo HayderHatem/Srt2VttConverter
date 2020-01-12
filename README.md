@@ -1,5 +1,5 @@
 # SRT2VTT
 
 
-developed for personal task
+simple, no need to docx :)
 
